@@ -8,7 +8,7 @@ Hands-on notebooks for running and training AI models on scientific problems.
 
 **`notebooks/corrdiff_demo_for_hackathons.ipynb`**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariahpope/ai_hackathons/blob/main/notebooks/corrdiff_demo_for_hackathons.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maxfield-green/ai_hackathons/blob/main/notebooks/corrdiff_demo_for_hackathons.ipynb)
 
 Train and run a generative AI model that sharpens coarse weather forecasts into high-resolution predictions — no prior ML experience required.
 
